@@ -1,0 +1,15 @@
+Julia v1.6
+
+BSON v0.3.3
+CSV v0.8.5
+DataFrames v0.21.8
+FileIO v1.10.1
+Flux v0.12.4
+JLD2 v0.4.3
+LSHFunctions v0.2.0
+Metrics v0.1.0
+Plots v1.16.6
+StatsBase v0.33.8
+StatsPlots v0.14.24
+Clustering v0.14.2
+Word2Vec v0.5.3
